@@ -22,13 +22,13 @@ public class Person {
     }
 
     public void move() {
-        System.out.println("This Person move");
+        System.out.println("This Person moves");
     }
 
     ;
 
     public void talk() {
-        System.out.println("This Person talk");
+        System.out.println("This Person talks");
     }
 
     ;
